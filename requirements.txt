@@ -1,0 +1,4 @@
+pycaret
+matplotlib
+seaborn
+jupyter
