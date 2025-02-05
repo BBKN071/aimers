@@ -1,4 +1,6 @@
-pycaret
 matplotlib
 seaborn
 jupyter
+scikit-learn
+plotly
+missingno
