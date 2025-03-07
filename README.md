@@ -43,5 +43,5 @@ LG aimers 6기 코드 자료
 2. catboost classifier + optuna(하이퍼 파라미터 튜닝)   
 1 + 2 모델의 가중 앙상블(weighted ensemble) 기법 -> 앙상블 모델 가중치들의 합이 1이 되도록 설정   
    
-### 결과 : AUC 0.7415 (193 / 1570) 상위 12.29%   
+### 결과 : AUC 0.7415 (193 / 1570) 
 
